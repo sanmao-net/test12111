@@ -1,0 +1,7 @@
+D:\Azure\TestApplications\TestApplications-new\826MvcApplication_\826MvcApplication_\bin\826MvcApplication_.dll
+D:\Azure\TestApplications\TestApplications-new\826MvcApplication_\826MvcApplication_\bin\826MvcApplication_.pdb
+D:\Azure\TestApplications\TestApplications-new\826MvcApplication_\826MvcApplication_\bin\EntityFramework.dll
+D:\Azure\TestApplications\TestApplications-new\826MvcApplication_\826MvcApplication_\bin\EntityFramework.xml
+D:\Azure\TestApplications\TestApplications-new\826MvcApplication_\826MvcApplication_\obj\Debug\ResolveAssemblyReference.cache
+D:\Azure\TestApplications\TestApplications-new\826MvcApplication_\826MvcApplication_\obj\Debug\826MvcApplication_.dll
+D:\Azure\TestApplications\TestApplications-new\826MvcApplication_\826MvcApplication_\obj\Debug\826MvcApplication_.pdb
