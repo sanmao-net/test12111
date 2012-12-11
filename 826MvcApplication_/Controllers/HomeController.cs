@@ -10,7 +10,7 @@ namespace _826MvcApplication_.Controllers
     {
         public ActionResult Index()
         {
-            ViewBag.Message = "Welcome to ASP.NET MVC!#1";
+            ViewBag.Message = "Welcome to ASP.NET MVC!#2";
 
             return View();
         }
